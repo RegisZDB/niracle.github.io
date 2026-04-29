@@ -6,5 +6,5 @@ Track redemption codes for your favorite gacha games in one place.
 Available on Google Play — coming soon.
 
 ## Links
-- [Privacy Policy](https://niracle.github.io/privacy)
+- [Privacy Policy](https://regiszdb.github.io/niracle.github.io/privacy.html)
 - [Support](mailto:niracle.studios@gmail.com)
